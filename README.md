@@ -1,3 +1,2 @@
-# Updated README!
-
-This was modified by the analyzer app.
+# Updated README! 🚀
+This was modified automatically.
