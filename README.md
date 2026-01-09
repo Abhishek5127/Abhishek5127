@@ -1,1 +1,1 @@
-[object Object]
+<img src="./undefined" />
