@@ -1,1 +1,1 @@
-<img src="./assets/headers/header.svg" />
+<img src="https://raw.githubusercontent.com/Abhishek5127/GitHance---Github-Profile-Enhancer/refs/heads/main/public/headers/DragonBannerHeader.png" />
