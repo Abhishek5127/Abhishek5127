@@ -1,1 +1,1 @@
-<img src="./undefined" />
+<img src="./assets/headers/header.svg" />
