@@ -1,2 +1,1 @@
-> [!WARNING]
-> This is a warning
+<font color="red">Hello</font>
