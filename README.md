@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="http://localhost:3000/api/trophy?title=Highlights&theme=midnight&columns=3&a=OSS+Maintainer&a=Top+1%25+GitHub&a=Speaker" alt="Achievements showcase" />
+  <img src="http://localhost:3000/api/render?type=header&variant=constellation&name=Abhishek&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
 </div>
