@@ -1,3 +1,7 @@
 <div align="center">
-  <img src="https://githance.vercel.app/api/render?type=header&variant=signal&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
+
+![Hello, I am Abhishek!](https://img.shields.io/badge/Hello%2C%20I%20am%20Abhishek!-cfe8ff?style=for-the-badge&labelColor=cfe8ff&color=ffffff)
+
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-cfe8ff?style=for-the-badge&labelColor=ffffff&color=373d35)
+
 </div>
