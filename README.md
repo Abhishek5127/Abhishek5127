@@ -1,7 +1,17 @@
-## About Me
+Hello There, 
 
-I build modern web apps, experiment with AI tooling, and care about great DX.
+I am Abhishek, Full stack Developer pursuing BCA.
 
-- Next.js
-- AI tooling
-- Design systems
+
+Degree: Bachelor in Computer Application.
+
+Shri Pragya College, Ajmer
+
+Scores
+
+12th CBSE : 100%
+
+
+10the CBSE: 98%
+
+BCA: 9.8 CGPA
