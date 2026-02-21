@@ -1,7 +1,1 @@
-<h2>About Me</h2>
-<p>I build modern we<i>b apps, experim</i>ent with AI tooling, and care about great DX.</p>
-<ul>
-  <li>Next.js</li>
-  <li>AI tooling</li>
-  <li>Design systems</li>
-</ul>
+<p>Full-stack developer building web applications with JavaScript, React, and MongoDB. Specializes in authentication systems, AI-powered tools, and educational platforms. Deployed projects include GitHub profile enhancer, college syllabus clarity tool, and AI resume builder.</p>
