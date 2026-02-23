@@ -1,6 +1,33 @@
-<div align="center">
-  <img src="https://githance.vercel.app/api/render?type=header&variant=constellation&v=rect-v2&name=Abhishek+Choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
-</div>
+## Tech Stack
 
+### Languages:
 
-<h3>I am,</h3><h6>Full-stack developer building modern web applications with <u>JavaScript, React, and MongoDB. </u>Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with signup, login, and password reset functionality. Built AI Resume Builder that generates tailored resumes from user inputs. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer tool. Strong focus on practical solutions that solve real-world problems.</h6>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Libraries & Frameworks:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Tools & Platforms:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Databases:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
