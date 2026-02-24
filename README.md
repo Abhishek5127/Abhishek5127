@@ -1,16 +1,21 @@
+<div align="center">
+  <img src="https://githance.vercel.app/api/render?type=header&variant=signal&v=rect-v2&name=Abhishek+choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
+</div>
+
+
 ## Repo Commit Stats
 
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&snapshot=%257B%2522github_username%2522%253A%2522abhishek5127%2522%252C%2522total_commits%2522%253A98%252C%2522current_streak%2522%253A2%252C%2522longest_streak%2522%253A4%252C%2522last_repo%2522%253A%2522abhishek5127%252Fgithance---github-profile-enhancer%2522%252C%2522active_days_30%2522%253A18%252C%2522active_days_90%2522%253A18%252C%2522top_repo_recent%2522%253A%2522abhishek5127%252Fabhishek5127%2522%252C%2522recent_commits_7%2522%253A41%252C%2522recent_commits_30%2522%253A98%252C%2522last_updated%2522%253A%25222026-02-24T07%253A53%253A08.749Z%2522%257D" alt="Contribution summary" />
-  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&snapshot=%257B%2522github_username%2522%253A%2522abhishek5127%2522%252C%2522total_commits%2522%253A98%252C%2522current_streak%2522%253A2%252C%2522longest_streak%2522%253A4%252C%2522last_repo%2522%253A%2522abhishek5127%252Fgithance---github-profile-enhancer%2522%252C%2522active_days_30%2522%253A18%252C%2522active_days_90%2522%253A18%252C%2522top_repo_recent%2522%253A%2522abhishek5127%252Fabhishek5127%2522%252C%2522recent_commits_7%2522%253A41%252C%2522recent_commits_30%2522%253A98%252C%2522last_updated%2522%253A%25222026-02-24T07%253A53%253A08.749Z%2522%257D" alt="Commit streak" />
+  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127" alt="Contribution summary" />
+  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127" alt="Commit streak" />
 </p>
 
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=last_repo&snapshot=%257B%2522github_username%2522%253A%2522abhishek5127%2522%252C%2522total_commits%2522%253A98%252C%2522current_streak%2522%253A2%252C%2522longest_streak%2522%253A4%252C%2522last_repo%2522%253A%2522abhishek5127%252Fgithance---github-profile-enhancer%2522%252C%2522active_days_30%2522%253A18%252C%2522active_days_90%2522%253A18%252C%2522top_repo_recent%2522%253A%2522abhishek5127%252Fabhishek5127%2522%252C%2522recent_commits_7%2522%253A41%252C%2522recent_commits_30%2522%253A98%252C%2522last_updated%2522%253A%25222026-02-24T07%253A53%253A08.749Z%2522%257D" alt="Last worked repository" />
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=total_commits&snapshot=%257B%2522github_username%2522%253A%2522abhishek5127%2522%252C%2522total_commits%2522%253A98%252C%2522current_streak%2522%253A2%252C%2522longest_streak%2522%253A4%252C%2522last_repo%2522%253A%2522abhishek5127%252Fgithance---github-profile-enhancer%2522%252C%2522active_days_30%2522%253A18%252C%2522active_days_90%2522%253A18%252C%2522top_repo_recent%2522%253A%2522abhishek5127%252Fabhishek5127%2522%252C%2522recent_commits_7%2522%253A41%252C%2522recent_commits_30%2522%253A98%252C%2522last_updated%2522%253A%25222026-02-24T07%253A53%253A08.749Z%2522%257D" alt="Total commits" />
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=last_repo" alt="Last worked repository" />
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=total_commits" alt="Total commits" />
 </p>
 
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=active_days&snapshot=%257B%2522github_username%2522%253A%2522abhishek5127%2522%252C%2522total_commits%2522%253A98%252C%2522current_streak%2522%253A2%252C%2522longest_streak%2522%253A4%252C%2522last_repo%2522%253A%2522abhishek5127%252Fgithance---github-profile-enhancer%2522%252C%2522active_days_30%2522%253A18%252C%2522active_days_90%2522%253A18%252C%2522top_repo_recent%2522%253A%2522abhishek5127%252Fabhishek5127%2522%252C%2522recent_commits_7%2522%253A41%252C%2522recent_commits_30%2522%253A98%252C%2522last_updated%2522%253A%25222026-02-24T07%253A53%253A08.749Z%2522%257D" alt="Active days in 30 and 90 day windows" />
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=top_repo&snapshot=%257B%2522github_username%2522%253A%2522abhishek5127%2522%252C%2522total_commits%2522%253A98%252C%2522current_streak%2522%253A2%252C%2522longest_streak%2522%253A4%252C%2522last_repo%2522%253A%2522abhishek5127%252Fgithance---github-profile-enhancer%2522%252C%2522active_days_30%2522%253A18%252C%2522active_days_90%2522%253A18%252C%2522top_repo_recent%2522%253A%2522abhishek5127%252Fabhishek5127%2522%252C%2522recent_commits_7%2522%253A41%252C%2522recent_commits_30%2522%253A98%252C%2522last_updated%2522%253A%25222026-02-24T07%253A53%253A08.749Z%2522%257D" alt="Top repository by recent activity" />
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=active_days" alt="Active days in 30 and 90 day windows" />
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&metric=top_repo" alt="Top repository by recent activity" />
 </p>
