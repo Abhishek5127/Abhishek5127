@@ -7,11 +7,7 @@
   <tr>
 <td width="33.33%" align="center" valign="top">
 <div align="center">
-
-![Hi, I'm Your Name](https://img.shields.io/badge/Hi%2C%20I'm%20Your%20Name-cfe8ff?style=for-the-badge&labelColor=cfe8ff&color=ffffff)
-
-![Building delightful products](https://img.shields.io/badge/Building%20delightful%20products-cfe8ff?style=for-the-badge&labelColor=ffffff&color=373d35)
-
+  <img src="https://githance.vercel.app/api/render?type=header&variant=constellation&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
 </div>
 </td>
 <td width="33.33%" align="center" valign="top">
