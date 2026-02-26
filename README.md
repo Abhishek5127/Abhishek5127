@@ -35,23 +35,17 @@
 </p>
 </div>
 
-
-<table>
-  <colgroup>
-    <col width="33.33%" />
-    <col width="33.33%" />
-    <col width="33.33%" />
-  </colgroup>
-  <tr>
-<td width="33.33%" align="center" valign="top">
+<div align="center">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="220" />
 </p>
-</td>
-<td width="33.33%" align="center" valign="top">
+</div>
+
+<div align="center">
 <p>Full-stack developer building production-ready web applications with JavaScript, React, and MongoDB. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with signup, login, and password reset functionality. Built AI Resume Builder that generates tailored resumes from user inputs for job applications. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer tool deployed on Vercel. Strong experience with database integration, user authentication flows, and responsive web interfaces. Focuses on solving real-world problems through practical, user-centric applications.</p>
-</td>
-<td width="33.33%" align="center" valign="top">
+</div>
+
+<div align="center">
 ## Tech Stack
 
 ### Languages:
@@ -81,6 +75,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
-</td>
-  </tr>
-</table>
+</div>
