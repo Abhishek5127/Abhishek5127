@@ -17,29 +17,21 @@
   </tr>
 </table>
 
-
-<table>
-  <colgroup>
-    <col width="33.33%" />
-    <col width="33.33%" />
-    <col width="33.33%" />
-  </colgroup>
-  <tr>
-<td width="33.33%" align="center" valign="top">
+<div align="center">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Your%20Name&fontSize=38&fontAlignY=35&desc=Design%20%2B%20Code&descAlignY=60" />
 </div>
-</td>
-<td width="33.33%" align="center" valign="top">
+</div>
+
+<div align="center">
 <p>Full-stack developer building modern web applications with JavaScript, React, and MongoDB. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with signup, login, and password reset functionality. Built AI Resume Builder that generates tailored resumes from user inputs. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer tool. Strong experience in full-stack development, API integration, and responsive UI design. Focuses on creating practical solutions that solve real-world problems through clean, efficient code.</p>
-</td>
-<td width="33.33%" align="center" valign="top">
+</div>
+
+<div align="center">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="220" />
 </p>
-</td>
-  </tr>
-</table>
+</div>
 
 
 ## Repo Commit Stats
