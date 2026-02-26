@@ -3,8 +3,13 @@
 
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="180" />
+</p>
+
+
+<p align="center">
   <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="180" />
 </p>
+
 
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="180" />
