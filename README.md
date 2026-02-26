@@ -6,14 +6,16 @@
   </colgroup>
   <tr>
 <td width="33.33%" align="center" valign="top">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="220" />
-</p>
+<div align="center">
+
+![Hi, I'm Your Name](https://img.shields.io/badge/Hi%2C%20I'm%20Your%20Name-cfe8ff?style=for-the-badge&labelColor=cfe8ff&color=ffffff)
+
+![Building delightful products](https://img.shields.io/badge/Building%20delightful%20products-cfe8ff?style=for-the-badge&labelColor=ffffff&color=373d35)
+
+</div>
 </td>
 <td width="33.33%" align="center" valign="top">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="220" />
-</p>
+<p>Abhishek Choudhary</p><p>Full-stack JavaScript developer specializing in MERN stack applications. Builds authentication systems, AI-powered tools, and educational platforms. Deployed projects include GitHub profile enhancer, college syllabus clarity tool, and AI resume builder. Strong in React, Node.js, and MongoDB. Focuses on creating intuitive, production-ready web applications that solve real-world problems.</p>
 </td>
 <td width="33.33%" align="center" valign="top">
 <p align="center">
@@ -23,29 +25,48 @@
   </tr>
 </table>
 
-<div align="center">
+
+## Repo Commit Stats
+
+
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
+  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
 </p>
-</div>
 
-<div align="center">
+
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="360" />
 </p>
-</div>
 
-<div align="center">
+
+<table>
+  <colgroup>
+    <col width="50.00%" />
+    <col width="50.00%" />
+  </colgroup>
+  <tr>
+<td width="50.00%" align="center" valign="top">
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="220" />
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="280" />
 </p>
-</div>
+</td>
+<td width="50.00%" align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="280" />
+</p>
+</td>
+  </tr>
+</table>
 
-<div align="center">
-<p>Full-stack developer building production-ready web applications with JavaScript, React, and MongoDB. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with signup, login, and password reset functionality. Built AI Resume Builder that generates tailored resumes from user inputs for job applications. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer tool deployed on Vercel. Strong experience with database integration, user authentication flows, and responsive web interfaces. Focuses on solving real-world problems through practical, user-centric applications.</p>
-</div>
 
-<div align="center">
+<table>
+  <colgroup>
+    <col width="33.33%" />
+    <col width="33.33%" />
+    <col width="33.33%" />
+  </colgroup>
+  <tr>
+<td width="33.33%" align="center" valign="top">
 ## Tech Stack
 
 ### Languages:
@@ -75,4 +96,16 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
+</td>
+<td width="33.33%" align="center" valign="top">
+<div align="center">
+  <img src="https://githance.vercel.app/api/render?type=trophy&variant=default&v=rect-v2&title=Highlights&theme=midnight&columns=4&a=OSS+Maintainer&a=Top+1%25+GitHub&a=Speaker" alt="Achievements showcase" />
 </div>
+</td>
+<td width="33.33%" align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="220" />
+</p>
+</td>
+  </tr>
+</table>
