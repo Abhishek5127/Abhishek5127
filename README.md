@@ -1,22 +1,12 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate;">
-  <tr style="border: 0;">
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
+
+
+
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
-</p>
-</td>
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
-<p align="center">
   <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
-</p>
-</td>
-<td align="center" valign="top" style="border: 0; padding: 0 8px;">
-<p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="360" />
 </p>
-</td>
-  </tr>
-</table>
+
 
 
 ## Repo Commit Stats
