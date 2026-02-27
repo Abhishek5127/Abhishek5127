@@ -40,24 +40,24 @@
 </p>
 
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;border-spacing:0;width:100%;">
   <colgroup>
     <col width="33.33%" />
     <col width="33.33%" />
     <col width="33.33%" />
   </colgroup>
-  <tr>
-<td width="33.33%" align="center" valign="top">
+  <tr style="border:none;">
+<td style="border:none;padding:0 6px;" width="33.33%" align="center" valign="top">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="220" />
 </p>
 </td>
-<td width="33.33%" align="center" valign="top">
+<td style="border:none;padding:0 6px;" width="33.33%" align="center" valign="top">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="220" />
 </p>
 </td>
-<td width="33.33%" align="center" valign="top">
+<td style="border:none;padding:0 6px;" width="33.33%" align="center" valign="top">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="220" />
 </p>
