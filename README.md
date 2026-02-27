@@ -1,3 +1,56 @@
+<table>
+  <tr>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="360" />
+</p>
+</td>
+  </tr>
+</table>
+
+
+## Repo Commit Stats
+
+
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
+</p>
+
+
+<h2>About Me</h2>
+<p>I build modern web apps, experiment with AI tooling, and care about great DX.</p>
+<ul>
+  <li>Next.js</li>
+  <li>AI tooling</li>
+  <li>Design systems</li>
+</ul>
+
+<div align="center">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="360" />
+</p>
+</div>
+
+<div align="center">
+&nbsp;
+</div>
+
+
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
+</p>
+
+
 ## Tech Stack
 
 ### Languages:
@@ -5,6 +58,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 ### Libraries & Frameworks:
@@ -19,57 +73,14 @@
 ### Tools & Platforms:
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 ### Databases:
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-
-<p>Full-stack developer building modern web applications with JavaScript, React, and MongoDB. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with signup, login, and password reset functionality. Built AI Resume Builder that generates tailored resumes from user inputs. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer tool. Experience deploying production applications on Vercel. Strong focus on user experience and practical problem-solving.</p>
-
-<div align="center">
-<div align="center">
-  <img src="https://githance.vercel.app/api/render?type=trophy&variant=default&v=rect-v2&title=Highlights&theme=midnight&columns=4&a=OSS+Maintainer&a=Top+1%25+GitHub&a=Speaker" alt="Achievements showcase" />
-</div>
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
-</p>
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="360" />
-</p>
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
-</p>
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
-</p>
-</div>
-
-
-## Repo Commit Stats
-
-
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
-</p>
-
-
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
 </p>
