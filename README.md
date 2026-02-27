@@ -1,20 +1,94 @@
-
-
-
+<table>
+  <tr>
+<td align="center" valign="top">
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
-  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="360" />
 </p>
-
-
-
-## Repo Commit Stats
-
-
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
+</p>
+</td>
+  </tr>
+  <tr>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
 </p>
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
+</p>
+</td>
+  </tr>
+  <tr>
+<td align="center" valign="top">
+<div align="center">
+  <img src="https://githance.vercel.app/api/render?type=header&variant=constellation&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
+</div>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=active_days" alt="Active days in 30 and 90 day windows" width="360" />
+</p>
+</td>
+  </tr>
+  <tr>
+<td align="center" valign="top">
+<div align="center">
+
+![Hi, I'm Your Name](https://img.shields.io/badge/Hi%2C%20I'm%20Your%20Name-cfe8ff?style=for-the-badge&labelColor=cfe8ff&color=ffffff)
+
+![Building delightful products](https://img.shields.io/badge/Building%20delightful%20products-cfe8ff?style=for-the-badge&labelColor=ffffff&color=373d35)
+
+</div>
+</td>
+<td align="center" valign="top">
+<div align="center">
+  <img src="https://githance.vercel.app/api/render?type=header&variant=stacked&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
+</div>
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="360" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
+</p>
+</td>
+  </tr>
+</table>
 
 
 <h2>About Me</h2>
@@ -25,52 +99,10 @@
   <li>Design systems</li>
 </ul>
 
-<div align="center">
+
+## Repo Commit Stats
+
+
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=top_repo" alt="Top repository by recent activity" width="360" />
-</p>
-</div>
-
-<div align="center">
-&nbsp;
-</div>
-
-
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
-</p>
-
-
-## Tech Stack
-
-### Languages:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-### Libraries & Frameworks:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-### Tools & Platforms:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-### Databases:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
