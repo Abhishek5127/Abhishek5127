@@ -1,5 +1,5 @@
 <svg width="1120" height="320" viewBox="0 0 1120 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contribution graph for abhishek5127">
-  <rect x="8" y="8" width="1104" height="304" rx="12" fill="none" stroke="#d8dde3" />
+  <rect x="8" y="8" width="1104" height="304" rx="12" fill="#ffffff" stroke="#d8dde3" />
 
   <text x="22" y="83" fill="#101418" font-size="16" font-family="Inter, Segoe UI, sans-serif" font-weight="700">Contribution Graph</text>
   <text x="22" y="101" fill="#4f5b66" font-size="12" font-family="Inter, Segoe UI, sans-serif">@abhishek5127</text>
