@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://githance.vercel.app/api/render?type=header&variant=constellation&v=rect-v2&name=Abhishek+Choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
+  <img src="https://githance.vercel.app/api/render?type=header&variant=signal&v=rect-v2&name=Abhishek+Choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
 </div>
 
 
-<h4>JavaScript developer&nbsp;</h4><h6><i>building modern web applications with React and MongoDB. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication with secure signup/login/reset flows. Built AI Resume Builder using advanced algorithms for personalized resume generation. Developed College Syllabus Clarity for academic organization. Launched GitHance, a GitHub profile enhancer. Deployed multiple production applications on Vercel. Strong in full-stack development, API integration, and user experience design.</i></h6>
+<h4>Full-stack developer</h4><h6><i>&nbsp;building production-ready web applications with JavaScript, React, and Python. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with MongoDB Atlas for secure user management. Built AI Resume Builder that generates tailored resumes from minimal user input. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer deployed on Vercel. Combines modern web technologies with practical problem-solving to deliver impactful digital solutions.</i></h6>
 
 
 ## Tech Stack
@@ -12,6 +12,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
@@ -40,45 +42,22 @@
 </p>
 
 
-<table>
-  <tr>
-<td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: separate;">
+  <tr style="border: 0;">
+<td align="center" valign="top" style="border: 0; padding: 0 8px;">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
 </p>
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" style="border: 0; padding: 0 8px;">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
 </p>
 </td>
   </tr>
-  <tr>
-<td align="center" valign="top">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=last_repo" alt="Last worked repository" width="360" />
-</p>
-</td>
-<td align="center" valign="top">
-<p align="center">
-  <img src="https://githance.vercel.app/api/render?type=repo&variant=metric&v=rect-v2&user=Abhishek5127&installation_id=112180444&metric=total_commits" alt="Total commits" width="360" />
-</p>
-</td>
-  </tr>
 </table>
 
 
-<table>
-  <tr>
-<td align="center" valign="top">
 <p align="center">
-  <img src="./assets/readme/contribution-graph.svg" alt="Contribution graph" />
+  <img src="./assets/readme/contribution-graph-yearly-canvas-contribution-1772628317378.svg" alt="Contribution graph" />
 </p>
-</td>
-<td align="center" valign="top">
-<p align="center">
-  <img src="./assets/readme/contribution-graph-monthly.svg" alt="Contribution graph" />
-</p>
-</td>
-  </tr>
-</table>
