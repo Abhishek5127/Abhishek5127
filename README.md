@@ -6,7 +6,7 @@
 <h4>Full-stack developer</h4><h6><i>&nbsp;building production-ready web applications with JavaScript, React, and Python. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with MongoDB Atlas for secure user management. Built AI Resume Builder that generates tailored resumes from minimal user input. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer deployed on Vercel. Combines modern web technologies with practical problem-solving to deliver impactful digital solutions.</i></h6>
 
 
-<img align="right" width="220" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNieDA0OXA3dW1vYndqeWZwN2k2dXc2M3Nlcmd1eThqMDBjb2tobiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PfY4nKis93ZHXMywps/giphy.gif">
 
 
 ---
