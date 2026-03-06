@@ -6,39 +6,44 @@
 <h4>Full-stack developer</h4><h6><i>&nbsp;building production-ready web applications with JavaScript, React, and Python. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication system with MongoDB Atlas for secure user management. Built AI Resume Builder that generates tailored resumes from minimal user input. Developed College Syllabus Clarity platform for academic organization. Launched GitHance, a GitHub profile enhancer deployed on Vercel. Combines modern web technologies with practical problem-solving to deliver impactful digital solutions.</i></h6>
 
 
-## Tech Stack
+<img align="right" width="220" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-### Languages:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+---
+
+### 💻 Tech Stack
+
+#### Languages:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="44">
+  <img src="https://skillicons.dev/icons?i=py" width="44">
+  <img src="https://skillicons.dev/icons?i=java" width="44">
+  <img src="https://skillicons.dev/icons?i=ts" width="44">
 </p>
 
-### Libraries & Frameworks:
+#### Libraries & Frameworks:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="44">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="44">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="44">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="44">
 </p>
 
-### Tools & Platforms:
+#### Tools & Platforms:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" width="44">
+  <img src="https://skillicons.dev/icons?i=github" width="44">
+  <img src="https://skillicons.dev/icons?i=git" width="44">
 </p>
 
-### Databases:
+#### Databases:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="44">
+  <img src="https://skillicons.dev/icons?i=postgres" width="44">
 </p>
 
 
