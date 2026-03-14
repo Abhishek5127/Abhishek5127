@@ -1,10 +1,9 @@
 <div align="center">
-
-![hi, my name is lucky](https://img.shields.io/badge/hi%2C%20my%20name%20is%20lucky-cfe8ff?style=for-the-badge&labelColor=cfe8ff&color=ffffff)
-
-![cyber security](https://img.shields.io/badge/cyber%20security-cfe8ff?style=for-the-badge&labelColor=ffffff&color=373d35)
-
+  <img src="https://githance.vercel.app/api/render?type=header&variant=constellation&v=rect-v2&name=Abhishek+Choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
 </div>
+
+
+<h4>Full-stack developer</h4><h5><i>specializing in JavaScript, React, and Python. Builds scalable web applications with MERN stack expertise. Created authentication systems, AI-powered resume builders, and educational platforms. Deployed projects include GitHub profile enhancer, college syllabus clarity tool, and AI resume builder. Focuses on data-driven solutions and user authentication. Strong background in modern web development and AI integration.</i></h5>
 
 
 ## Tech Stack
@@ -13,10 +12,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 ### Libraries & Frameworks:
@@ -31,24 +29,30 @@
 ### Tools & Platforms:
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 ### Databases:
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
 
-## Repo Commit Stats
-
-
+<table>
+  <tr>
+<td align="center" valign="top">
+<p align="center">
+  <img src="./assets/readme/contribution-graph-monthly-canvas-contribution-1773463291717.svg" alt="Contribution graph" />
+</p>
+</td>
+<td align="center" valign="top">
 <p align="center">
   <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=Abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
 </p>
-
-
-<p align="center">
-  <img src="./assets/readme/contribution-graph-yearly-canvas-contribution-1773462685193.svg" alt="Contribution graph" />
-</p>
+</td>
+  </tr>
+</table>
