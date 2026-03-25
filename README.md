@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://githance.vercel.app/api/render?type=header&variant=signal&v=rect-v2&name=Abhishek+Choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Abhishek%20choudhary&fontSize=38&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60" />
 </div>
 
 
-<h6><i>I like creating clean, efficient solutions and pushing ideas beyond the obvious. I focus on writing code that’s not just functional, but smart and scalable.</i></h6><h6><i>Currently exploring development and AI, constantly improving, and always shipping. Not here to just learn — here to build things that actually stand out.</i></h6>
+<h6 style="text-align: right;"><i>Full-stack developer building modern web applications with JavaScript, React, and Python. Specializes in authentication systems, AI-powered tools, and educational platforms. Created MERN authentication with MongoDB Atlas for secure user management. Built AI Resume Builder using advanced algorithms to generate tailored resumes from minimal input. Developed College Syllabus Clarity for academic organization. Launched GitHance, a GitHub profile enhancer deployed on Vercel. Passionate about creating intuitive, production-ready solutions that solve real-world problems.</i></h6>
 
 
 ## Tech Stack
@@ -46,12 +46,12 @@
   <tr style="border: 0;">
 <td align="center" valign="top" style="border: 0; padding: 0 8px;">
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
+  <img src="./assets/readme/contribution-graph-monthly-canvas-contribution-1774447622031.svg" alt="Contribution graph" />
 </p>
 </td>
 <td align="center" valign="top" style="border: 0; padding: 0 8px;">
 <p align="center">
-  <img src="https://githance.vercel.app/api/render?type=streak&variant=default&v=rect-v2&user=abhishek5127&installation_id=112180444" alt="Commit streak" width="360" />
+  <img src="https://githance.vercel.app/api/render?type=contribution&variant=summary&v=rect-v2&user=abhishek5127&installation_id=112180444" alt="Contribution summary" width="360" />
 </p>
 </td>
   </tr>
