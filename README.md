@@ -1,23 +1,56 @@
 <div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=blueprint&v=rect-v2&name=Abhishek+Choudhary&subtitle=Building+thoughtful+software&theme=midnight&a=Full+Stack+Developer&a=System+Designer" alt="Custom header" />
+  <img src="https://githance.in/api/render?type=header&variant=blueprint&v=rect-v4&name=Abhishek+Choudhary&subtitle=Full+Stack+Developer&theme=midnight&a=Saas+Softwares&a=System+Designer" alt="Custom header" />
 </div>
 
 
-<div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=circuit&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
-</div>
+<h5><i>Full-Stack Developer building thoughtful software which solves every day internet problems in a creative and unique approach. Expert in SaaS-apps System Design, Scalable Integration of&nbsp; Services &amp; effective SERP.</i></h5>
 
 
-<div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=spotlight&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
-</div>
+<table>
+  <tr>
+<td align="center" valign="top">
+## Tech Stack
+
+### Languages:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Libraries & Frameworks:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Tools & Platforms:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Databases:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+</td>
+<td align="center" valign="top">
+<p align="center">
+  <img src="./assets/readme/contribution-graph-monthly-canvas-contribution-1774774930099.svg" alt="Contribution graph" />
+</p>
+</td>
+  </tr>
+</table>
 
 
-<div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=marquee&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
-</div>
-
-
-<div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=panorama&v=rect-v2&name=Your+Name&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
-</div>
+<h5 style="text-align: right;">--Like to build user Centric apps which creates real life impact.</h5>
