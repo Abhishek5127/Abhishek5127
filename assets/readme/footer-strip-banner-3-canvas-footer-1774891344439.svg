@@ -4,12 +4,12 @@
       <rect width="1600" height="240" rx="28" ry="28" />
     </clipPath>
     <linearGradient id="footer-strip-overlay" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.72" />
-      <stop offset="50%" stop-color="#000000" stop-opacity="0.28" />
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.55" />
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.48" />
+      <stop offset="50%" stop-color="#000000" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.38" />
     </linearGradient>
     <linearGradient id="footer-strip-shine" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.38" />
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.24" />
       <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </linearGradient>
   </defs>
@@ -20,8 +20,4 @@
     <rect width="1600" height="240" fill="url(#footer-strip-shine)" />
   </g>
   <rect x="1.5" y="1.5" width="1597" height="237" rx="26.5" ry="26.5" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="3" />
-  <text x="72" y="148" fill="rgba(255,255,255,0.58)" font-size="18" font-weight="700" letter-spacing="4.4" font-family="Arial, Helvetica, sans-serif">FOOTER BANNER</text>
-  <text x="72" y="192" fill="#ffffff" font-size="34" font-weight="700" font-family="Arial, Helvetica, sans-serif">Banner 03</text>
-  <rect x="1308" y="166" width="220" height="48" rx="24" ry="24" fill="rgba(0,0,0,0.3)" stroke="rgba(255,255,255,0.14)" stroke-width="2" />
-  <text x="1418" y="197" text-anchor="middle" fill="rgba(255,255,255,0.72)" font-size="18" font-weight="700" letter-spacing="2.8" font-family="Arial, Helvetica, sans-serif">README ASSET</text>
 </svg>
