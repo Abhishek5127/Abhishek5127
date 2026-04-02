@@ -1,59 +1,46 @@
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=solid-line&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=4" alt="Solid Line" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=dot-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=17" alt="Dot Divider" />
+</p>
+
+
 <div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=blueprint&v=rect-v4&name=Abhishek+Choudhary&subtitle=Full+stack+Developer+&theme=midnight&a=SaaS+Builder&a=System+Designer" alt="Custom header" />
-</div>
 
+![Hi, I'm Your Name](https://img.shields.io/badge/Hi%2C%20I'm%20Your%20Name-cfe8ff?style=for-the-badge&labelColor=cfe8ff&color=ffffff)
 
-<h5><i>Full-Stack Developer building thoughtful software which solves everyday internet problems in a creative and unique approach. Expert in SaaS apps, system design, scalable integrations &amp; effective SERP</i></h5>
+![Building delightful products](https://img.shields.io/badge/Building%20delightful%20products-cfe8ff?style=for-the-badge&labelColor=ffffff&color=373d35)
 
-
-## Tech Stack
-
-### Languages:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-### Libraries & Frameworks:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-### Tools & Platforms:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-### Databases:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
-
-
-## little handles
-
-<div align="left">
-<table cellpadding="8" cellspacing="0">
-  <tr>
-<td align="center" valign="middle" width="52"><a href="https://www.linkedin.com/in/abhishek-choudhary5127"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a></td>
-<td align="center" valign="middle" width="52"><a href="https://discord.gg/itz_decade"><img src="https://api.iconify.design/simple-icons:discord.svg?color=%235865F2" alt="Discord" width="34" height="34" /></a></td>
-  </tr>
-</table>
 </div>
 
 
 <p align="center">
-  <img src="./assets/readme/footer-strip-banner-2-canvas-footer-1775139280600.svg" alt="Footer banner" />
+  <img src="https://githance.in/api/render?type=decor&variant=wave-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=18" alt="Wave Divider" />
+</p>
+
+
+<h2>About Me</h2>
+<p>I build modern web apps, experiment with AI tooling, and care about great DX.</p>
+<ul>
+  <li>Next.js</li>
+  <li>AI tooling</li>
+  <li>Design systems</li>
+</ul>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=diamond-divider&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=4" alt="Diamond Divider" />
+</p>
+
+
+<p align="center">
+  <img src="./assets/readme/footer-strip-banner-2-canvas-footer-1775143049712.svg" alt="Footer banner" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=decor&variant=segment-bar&v=rect-v4&pc=%2353D0FF&sc=%23FF7A1A&ac=%23D946EF&t=4" alt="Segment Bar" />
 </p>
