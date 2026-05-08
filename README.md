@@ -38,28 +38,7 @@ I'm **Abhishek** — a passionate developer who loves building projects with Pyt
 
 ---
 
-## 📈 GitHub Stats
 
-```text
-🚀 Always learning
-⚡ Building consistently
-🎯 Focused on growth
-```
 
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
-- Email: your@email.com
-
----
-
-## ✨ Favorite Quote
-
-> "Consistency beats motivation."
-
----
 
 ⭐ Thanks for visiting my profile!
