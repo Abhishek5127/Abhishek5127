@@ -1,74 +1,78 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Developer • AI Enthusiast • Web Creator</h3>
+<div align="center">
+
+# Hey 👋 I'm Abhishek
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developer;AI+%26+ML+Enthusiast;Web+Creator;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+Name: Abhishek
+Role: Developer
+Education: BCA Student
+Focus:
+  - AI & Machine Learning
+  - Web Development
+  - Automation
+  - Creative Projects
+```
+
+---
+
+## ⚒️ Technologies I Use
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Activity
 
-- 🔭 Currently working on **AI & Automation Projects**
-- 🌱 Learning **Machine Learning & Advanced Python**
-- 💻 Interested in **Web Development & Creative Tech**
-- 🎯 Goal: Become a skilled AI Developer
-- ⚡ Fun fact: I love building futuristic ideas into reality
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true" />
 
-## 🛠️ Tech Stack
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true" />
 
-### Languages & Tools
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+
+## 🎯 Current Mission
+
+- 🚀 Building useful projects
+- 📚 Mastering AI & Python
+- 🌍 Creating aesthetic websites
+- 💡 Turning ideas into products
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-
----
-
-## 📫 Connect With Me
-
-<p>
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    GitHub
   </a>
-
+  •
   <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    LinkedIn
   </a>
-
+  •
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    Email
   </a>
 </p>
 
 ---
 
-## ✨ Quote
+<div align="center">
 
-> “Code. Learn. Build. Repeat.”
+### ✨ "Stay consistent. Results follow."
 
----
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
+</div>
